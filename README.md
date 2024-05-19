@@ -4,19 +4,19 @@
 
 1. create a virtual environment
 
-""" bash
-conda create -n win_assistance_project_env python=3.8
+"""bash
+    conda create -n win_assistance_project_env python=3.8
 """
 
 2. check list of evironment
 '''bash
-conda env list
+    conda env list
 '''
 
 3. Activate the environment
 
 '''bash
-conda activate win_assistance_project_env
+    conda activate win_assistance_project_env
 '''
 
 
